@@ -53,3 +53,9 @@
 <p align="center">
 <img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/parts%20of%20os.jpg" alt="Parts Of OS">
 </p>
+
+### PROTRCTION IN OS - DUAL MODE
+<p align="center">
+<img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/Protection%20_In_OS_DualMode.png" alt="Parts Of OS">
+</p>
+
