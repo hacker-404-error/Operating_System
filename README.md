@@ -49,3 +49,5 @@
 9-1-Error-detecting Aids 
 10-Coordination Between Other Software and Users 
 ```
+### Parts Of Operating System
+![Parts of os](https://github.com/hacker-404-error/Operating_System/blob/main/images/parts%20of%20os.jpg)
