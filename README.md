@@ -13,8 +13,16 @@
 | 7   | VIRTUAL MEMORY                     |
 | 8   | FILE SYSTEM                        |
 
-## Chapter 1 - INTRODUCTION
-[Introduction_Written_Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/1-INTRODUCTION.pdf)
+# CHAPTER-1 INTRODUCTION
+| Sno. | TOPICS                   |
+| ---- | ------------------------ |
+|0.    |[Introduction_Written_Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/1-INTRODUCTION.pdf)|
+| 1.   | [What is Operating System ](https://github.com/hacker-404-error/Operating_System#what-is-operating-system)|
+| 2.   | [Services Of OS           ](https://github.com/hacker-404-error/Operating_System#services-of-operating-system)|
+| 3.   | [Goals Of OS              ](https://github.com/hacker-404-error/Operating_System#goals-of-operating-system)|
+| 4.   | [Parts Of OS              ](https://github.com/hacker-404-error/Operating_System#parts-of-operating-system)|
+| 5.   | [Protection In OS         ](https://github.com/hacker-404-error/Operating_System#protrction-in-os---dual-mode)|
+| 6.   | [Types Of OS              ]()|
 
 ### What is Operating System?
 -----------------------------
