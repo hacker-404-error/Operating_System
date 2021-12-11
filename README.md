@@ -67,3 +67,8 @@
 <img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/Protection%20_In_OS_DualMode.png" alt="Parts Of OS">
 </p>
 
+### Types Of Operating System
+<p align="center">
+<img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/Types%20Of%20Operating%20System.png" alt="Parts Of OS">
+</p>
+
