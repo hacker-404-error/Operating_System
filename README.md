@@ -55,4 +55,6 @@
 10-Coordination Between Other Software and Users 
 ```
 ### Parts Of Operating System
-![Parts of os](https://github.com/hacker-404-error/Operating_System/blob/main/images/parts%20of%20os.jpg)
+<p align="center">
+<img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/parts%20of%20os.jpg" alt="Parts Of OS">
+</p>
