@@ -13,6 +13,7 @@
 |     |                    |
 
 ## Chapter 1 - INTRODUCTION
+[Introduction Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/1-INTRODUCTION.pdf)
 
 ### What is Operating System?
 -----------------------------
