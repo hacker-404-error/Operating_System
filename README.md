@@ -14,7 +14,7 @@
 | 8   | FILE SYSTEM                        |
 
 ## Chapter 1 - INTRODUCTION
-[Introduction Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/1-INTRODUCTION.pdf)
+[Introduction_Written_Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/1-INTRODUCTION.pdf)
 
 ### What is Operating System?
 -----------------------------
@@ -31,15 +31,10 @@
 
 ### Services Of Operating System
 --------------------------------
-```
-1-Program execution
-2-I/O operations
-3-File System manipulation
-4-Communication
-5-Error Detection
-6-Resource Allocation
-7-Protection
-```
+<p align="center">
+<img src="https://github.com/hacker-404-error/Operating_System/blob/main/images/Services-of-Operating-System.jpg" alt="this is where operating system lies">
+</p>
+
 ### Goals Of Operating System
 ------------------
 ```
