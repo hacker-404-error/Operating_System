@@ -24,7 +24,10 @@
 3-Control Program.
 4-Acts like Govt.
 ```
-![os layout](https://github.com/hacker-404-error/Operating_System/blob/main/images/os%20layout.jpg)
+<!-- ![os layout](https://github.com/hacker-404-error/Operating_System/blob/main/images/os%20layout.jpg) -->
+<p align="center">
+<img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/os%20layout.jpg" alt="this is where operating system lies">
+</p>
 
 ### Services Of Operating System
 --------------------------------
