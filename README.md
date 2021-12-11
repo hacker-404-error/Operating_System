@@ -22,7 +22,7 @@
 | 3.   | [Goals Of OS              ](https://github.com/hacker-404-error/Operating_System#goals-of-operating-system)|
 | 4.   | [Parts Of OS              ](https://github.com/hacker-404-error/Operating_System#parts-of-operating-system)|
 | 5.   | [Protection In OS         ](https://github.com/hacker-404-error/Operating_System#protrction-in-os---dual-mode)|
-| 6.   | [Types Of OS              ]()|
+| 6.   | [Types Of OS              ](https://github.com/hacker-404-error/Operating_System/blob/main/README.md#types-of-operating-system)|
 
 ### What is Operating System?
 -----------------------------
