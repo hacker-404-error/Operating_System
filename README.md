@@ -22,7 +22,7 @@
 3-Control Program.
 4-Acts like Govt.
 ```
-[os layout](os%20layout.jpg)
+![os layout](https://github.com/hacker-404-error/Operating_System/blob/main/images/os%20layout.jpg)
 
 ### Services Of Operating System
 --------------------------------
