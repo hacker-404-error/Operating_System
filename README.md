@@ -4,7 +4,7 @@
 # Table Of contents
 | ID  | CHAPTER NO.                        |
 | --- | ---------------------------------- |
-| 1   | [INTRODUCTION](https://github.com/hacker-404-error/Operating_System#chapter-1---introduction)                       |
+| 1   | [INTRODUCTION](https://github.com/hacker-404-error/Operating_System#chapter-1-introduction)                       |
 | 2   | PROCESS MANAGEMENT                 |
 | 3   | CPU SCHEDULING                     |
 | 4   | THREADS & MULTITHREADING           |
