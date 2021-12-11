@@ -2,15 +2,16 @@
 # OPERATING SYSTEM
 
 # Table Of contents
-| ID  | CHAPTER NO.        |
-| --- | ------------------ |
-| 1   | INTRODUCTION       |
-| 2   | PROCESS MANAGEMENT |
-|     |                    |
-|     |                    |
-|     |                    |
-|     |                    |
-|     |                    |
+| ID  | CHAPTER NO.                        |
+| --- | ---------------------------------- |
+| 1   | INTRODUCTION                       |
+| 2   | PROCESS MANAGEMENT                 |
+| 3   | CPU SCHEDULING                     |
+| 4   | THREADS & MULTITHREADING           |
+| 5   | PROCESS SYNCHRONISATION & DEADLOCK |
+| 6   | MEMORY MANAGEMENT                  |
+| 7   | VIRTUAL MEMORY                     |
+| 8   | FILE SYSTEM                        |
 
 ## Chapter 1 - INTRODUCTION
 [Introduction Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/1-INTRODUCTION.pdf)
