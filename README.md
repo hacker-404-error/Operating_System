@@ -5,7 +5,7 @@
 | ID  | CHAPTER NO.                        |
 | --- | ---------------------------------- |
 | 1   | [INTRODUCTION](https://github.com/hacker-404-error/Operating_System#chapter-1-introduction)                       |
-| 2   | PROCESS MANAGEMENT                 |
+| 2   | [PROCESS MANAGEMENT](https://github.com/hacker-404-error/Operating_System#chapter-2-process-management)                 |
 | 3   | CPU SCHEDULING                     |
 | 4   | THREADS & MULTITHREADING           |
 | 5   | PROCESS SYNCHRONISATION & DEADLOCK |
@@ -89,13 +89,13 @@ AND
 | Sno. | TOPICS                        |
 | ---- | ----------------------------- |
 | 0.   | [Process Management Notes]()  |
-| 1.   | [What Is Process?         ]() |
-| 2.   | [Representation Of Process]() |
-| 3.   | [Operation On Process     ]() |
-| 4.   | [Attribute Of a Process   ]() |
-| 5.   | [Process Control Block    ]() |
-| 6.   | [Process State            ]() |
-| 7.   | [Process Scheduling       ]() |
+| 1.   | [What Is Process?         ](https://github.com/hacker-404-error/Operating_System#what-is-process) |
+| 2.   | [Representation Of Process](https://github.com/hacker-404-error/Operating_System#representation-of-process) |
+| 3.   | [Operation On Process     ](https://github.com/hacker-404-error/Operating_System#operation-on-process) |
+| 4.   | [Attribute Of a Process   ](https://github.com/hacker-404-error/Operating_System#attribute-of-process) |
+| 5.   | [Process Control Block    ](https://github.com/hacker-404-error/Operating_System#process-control-block) |
+| 6.   | [Process State            ](https://github.com/hacker-404-error/Operating_System#process-state) |
+| 7.   | [Process Scheduling       ](https://github.com/hacker-404-error/Operating_System#process-scheduling) |
 
 
 ### What is Process?
