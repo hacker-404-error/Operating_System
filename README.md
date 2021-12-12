@@ -88,7 +88,7 @@ AND
 # CHAPTER-2 PROCESS MANAGEMENT 
 | Sno. | TOPICS                        |
 | ---- | ----------------------------- |
-| 0.   | [Process Management Notes]()  |
+| 0.   | [Process Management Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/2-PROCESS%20MANAGEMENT.pdf)  |
 | 1.   | [What Is Process?         ](https://github.com/hacker-404-error/Operating_System#what-is-process) |
 | 2.   | [Representation Of Process](https://github.com/hacker-404-error/Operating_System#representation-of-process) |
 | 3.   | [Operation On Process     ](https://github.com/hacker-404-error/Operating_System#operation-on-process) |
@@ -139,6 +139,6 @@ PROCESS CANNOT ACCESS ITS OWN PCB.
 ```
 
 ### Process State
-![ROCESS STATE DIAGRAM](https://static.javatpoint.com/operating-system/images/os-process-state-diagram.png)
+![ROCESS STATE DIAGRAM](https://github.com/hacker-404-error/Operating_System/blob/main/images/Process-State-Diagram.png)
 
 ### Process Scheduling
