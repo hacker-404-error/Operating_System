@@ -90,12 +90,12 @@ AND
 | ---- | ----------------------------- |
 | 0.   | [Process Management Notes]()  |
 | 1.   | [What Is Process?         ]() |
-| 1.   | [Representation Of Process]() |
-| 1.   | [Operation On Process     ]() |
-| 1.   | [Attribute Of a Process   ]() |
-| 1.   | [Process Control Block    ]() |
-| 1.   | [Process State            ]() |
-| 1.   | [Process Scheduling       ]() |
+| 2.   | [Representation Of Process]() |
+| 3.   | [Operation On Process     ]() |
+| 4.   | [Attribute Of a Process   ]() |
+| 5.   | [Process Control Block    ]() |
+| 6.   | [Process State            ]() |
+| 7.   | [Process Scheduling       ]() |
 
 
 ### What is Process?
@@ -117,25 +117,26 @@ PROGRAM (INSTRUCTION) + RUN TIME ACTIVITY = PROCESS
 
 ### Attribute Of Process
 ```
-# PID Process id
-# List of Device
-# Program Counter
-# General Purpose Register
-# TYpe Of Process 
-# SIze Of Process
-# Memory limits
-# Priority
-# Stacks
-# List Of Files ETC.
+1. PID Process id
+2. List of Device
+3. Program Counter
+4. General Purpose Register
+5. TYpe Of Process 
+6. SIze Of Process
+7. Memory limits
+8. Priority
+9. Stacks
+10. List Of Files ETC.
 ```
+### Process Control Block
+![Process Control Block](https://github.com/hacker-404-error/Operating_System/blob/main/images/Process%20control%20block.jpg)
 ```
+NOTE:
+
 THESE ALL ATTRIBUTES ARE STORED IN ONE BLOCK - PROCESS CONTROL BLOCK.
 PROCESS CONTROL BLOCK STORES IN OPERATING SYSTEM PROTECTED AREA.
 PROCESS CANNOT ACCESS ITS OWN PCB.
 ```
-
-### Process Control Block
-![Process Control Block](https://github.com/hacker-404-error/Operating_System/blob/main/images/Process%20control%20block.jpg)
 
 ### Process State
 ![ROCESS STATE DIAGRAM](https://static.javatpoint.com/operating-system/images/os-process-state-diagram.png)
