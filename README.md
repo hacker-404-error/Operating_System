@@ -63,6 +63,18 @@
 </p>
 
 ### Protection In Operating System - DUAL MODE
+```
+Let: 
+user is writting something in MS Word (process is in user mode (mode bit=1)).
+If user want to save this file : user and MS word do not have the authority to make changes in disk (saviing process).
+User calls (system call) to save this file.
+Operating system have all authorities to make changes in disk(saving file).
+Operating system change the mode bit to 1(kernel process (cannot accessible by users)and 
+execute system call (saving the file in the disk).
+AND 
+Return to user process by changing mode bit to 1.
+
+```
 <p align="center">
 <img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/Protection%20_In_OS_DualMode.png" alt="Parts Of OS">
 </p>
