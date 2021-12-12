@@ -85,3 +85,4 @@ AND
 <img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/Types%20Of%20Operating%20System.png" alt="Parts Of OS">
 </p>
 
+# CHAPTER-2 PROCESS MANAGEMENT 
