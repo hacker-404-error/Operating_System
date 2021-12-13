@@ -108,7 +108,10 @@ PROGRAM (INSTRUCTION) + RUN TIME ACTIVITY = PROCESS
 ```
 
 ### Representation Of Process
-![Representation of process](https://github.com/hacker-404-error/Operating_System/blob/main/images/representation%20of%20process.jpg)
+<p align="center">
+<img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/representation%20of%20process.jpg" alt="Representation of process">
+</p>
+
 ```
 1.Stack
  The process Stack contains the temporary data such as method/function parameters, return address and local variables.
@@ -124,8 +127,10 @@ PROGRAM (INSTRUCTION) + RUN TIME ACTIVITY = PROCESS
 ```
  
 ### Operation On Process
-![operation](https://github.com/hacker-404-error/Operating_System/blob/main/images/Operation%20on%20process.png)
 
+<p align="center">
+<img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/Operation%20on%20process.png" alt="Operation">
+</p>
 
 ### Attribute Of Process
 ```
@@ -141,7 +146,10 @@ PROGRAM (INSTRUCTION) + RUN TIME ACTIVITY = PROCESS
 10. List Of Files ETC.
 ```
 ### Process Control Block
-![Process Control Block](https://github.com/hacker-404-error/Operating_System/blob/main/images/Process%20control%20block.jpg)
+<p align="center">
+<img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/Process%20control%20block.jpg" alt="PCB">
+</p>
+
 ```
 NOTE:
 
@@ -151,11 +159,19 @@ PROCESS CANNOT ACCESS ITS OWN PCB.
 ```
 
 ### Process State
-![ROCESS STATE DIAGRAM](https://github.com/hacker-404-error/Operating_System/blob/main/images/Process-State-Diagram.png)
+
+<p align="center">
+<img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/Process-State-Diagram.png" alt="Process state diagram">
+</p>
 
 ### Process scheduling
 ```
-scheduling is needed for better performance
+1-The process scheduling is the activity of the process manager that handles the removal of the running process from the CPU
+and the selection of another process on the basis of a particular strategy.
+
+2-Process scheduling is an essential part of a Multiprogramming operating systems.
+Such operating systems allow more than one process to be loaded into the executable memory at a time 
+and the loaded process shares the CPU using time multiplexing.
 ```
 #### Types Of Queues
 ```
@@ -166,6 +182,23 @@ scheduling is needed for better performance
 3-Device Queue:
   All the process which are waiting for specific device are kept in job queue
 ```
+<p align="center">
+<img align="center" src="https://github.com/hacker-404-error/Operating_System/blob/main/images/queue.jpg" alt="Queue">
+</p>
+
+
+### Context Switch
+```
+When the scheduler switches the CPU from executing one process to execute another,
+the state from the current running process is stored into the process control block.
+After this, the state for the process to run next is loaded from its own PCB and
+used to set the PC, registers, etc.
+At that point, the second process can start executing.
+```
+<p align="center">
+<img align="center" src="https://www.tutorialspoint.com/operating_system/images/context_switch.jpg" alt="Context Switches">
+</p>
+
 #### Types Of Schedulers
 ```
 1-Long Term Schedulers:
