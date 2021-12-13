@@ -141,4 +141,36 @@ PROCESS CANNOT ACCESS ITS OWN PCB.
 ### Process State
 ![ROCESS STATE DIAGRAM](https://github.com/hacker-404-error/Operating_System/blob/main/images/Process-State-Diagram.png)
 
-### Process Scheduling
+### Process scheduling
+```
+scheduling is needed for better performance
+```
+#### Types Of Queues
+```
+1-Job Queue:
+  All the process which are in new state are kept in job queue.
+2-Ready Queue:
+  All the process which are in raedy state are kept in job queue
+3-Device Queue:
+  All the process which are waiting for specific device are kept in job queue
+```
+#### Types Of Schedulers
+```
+1-Long Term Schedulers:
+  Schedule the process from ready state to new state
+2-Short Term Schedulers:
+  Schedule one of all the process from ready state to running state
+3-Mid Term Schedulers:
+  Schedule the process from ready state to suspended state
+  Schedule the process from waiting state to suspended state 
+```
+
+# CHAPTER-3 CPU SCHEDULING
+| Id. | Topics                       |
+| --- | ---------------------------- |
+| 1.  | What is CPU Scheduling       |
+| 2.  | Goal Of CPU Scheduling       |
+| 3.  | Scheduling Times             |
+| 4.  | Process Execution ALgorithms |
+
+
