@@ -108,7 +108,7 @@ PROGRAM (INSTRUCTION) + RUN TIME ACTIVITY = PROCESS
 ```
 
 ### Representation Of Process
-![Representation of process](https://github.com/hacker-404-error/Operating_System/blob/main/images/Representation%20of%20process.png)
+![Representation of process](https://github.com/hacker-404-error/Operating_System/blob/main/images/representation%20of%20process.jpg)
 
  
 ### Operation On Process
