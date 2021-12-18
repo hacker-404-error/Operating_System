@@ -2,27 +2,27 @@
 # OPERATING SYSTEM
 
 # Table Of contents
-| ID  | CHAPTER NO.                        |
-| --- | ---------------------------------- |
-| 1   | [INTRODUCTION](https://github.com/hacker-404-error/Operating_System#chapter-1-introduction)                       |
-| 2   | [PROCESS MANAGEMENT](https://github.com/hacker-404-error/Operating_System#chapter-2-process-management)                 |
-| 3   | CPU SCHEDULING                     |
-| 4   | THREADS & MULTITHREADING           |
-| 5   | PROCESS SYNCHRONISATION & DEADLOCK |
-| 6   | MEMORY MANAGEMENT                  |
-| 7   | VIRTUAL MEMORY                     |
-| 8   | FILE SYSTEM                        |
+| ID  | CHAPTER NO.                                                                                             |
+| --- | ------------------------------------------------------------------------------------------------------- |
+| 1   | [INTRODUCTION](https://github.com/hacker-404-error/Operating_System#chapter-1-introduction)             |
+| 2   | [PROCESS MANAGEMENT](https://github.com/hacker-404-error/Operating_System#chapter-2-process-management) |
+| 3   | CPU SCHEDULING                                                                                          |
+| 4   | THREADS & MULTITHREADING                                                                                |
+| 5   | PROCESS SYNCHRONISATION & DEADLOCK                                                                      |
+| 6   | MEMORY MANAGEMENT                                                                                       |
+| 7   | VIRTUAL MEMORY                                                                                          |
+| 8   | FILE SYSTEM                                                                                             |
 
 # CHAPTER-1 INTRODUCTION
-| Sno. | TOPICS                   |
-| ---- | ------------------------ |
-|0.    |[Introduction_Written_Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/1-INTRODUCTION.pdf)|
-| 1.   | [What is Operating System ](https://github.com/hacker-404-error/Operating_System#what-is-operating-system)|
-| 2.   | [Services Of OS           ](https://github.com/hacker-404-error/Operating_System#services-of-operating-system)|
-| 3.   | [Goals Of OS              ](https://github.com/hacker-404-error/Operating_System#goals-of-operating-system)|
-| 4.   | [Parts Of OS              ](https://github.com/hacker-404-error/Operating_System#parts-of-operating-system)|
-| 5.   | [Protection In OS         ](https://github.com/hacker-404-error/Operating_System#protrction-in-os---dual-mode)|
-| 6.   | [Types Of OS              ](https://github.com/hacker-404-error/Operating_System/blob/main/README.md#types-of-operating-system)|
+| Sno. | TOPICS                                                                                                                          |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 0.   | [Introduction_Written_Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/1-INTRODUCTION.pdf)           |
+| 1.   | [What is Operating System ](https://github.com/hacker-404-error/Operating_System#what-is-operating-system)                      |
+| 2.   | [Services Of OS           ](https://github.com/hacker-404-error/Operating_System#services-of-operating-system)                  |
+| 3.   | [Goals Of OS              ](https://github.com/hacker-404-error/Operating_System#goals-of-operating-system)                     |
+| 4.   | [Parts Of OS              ](https://github.com/hacker-404-error/Operating_System#parts-of-operating-system)                     |
+| 5.   | [Protection In OS         ](https://github.com/hacker-404-error/Operating_System#protrction-in-os---dual-mode)                  |
+| 6.   | [Types Of OS              ](https://github.com/hacker-404-error/Operating_System/blob/main/README.md#types-of-operating-system) |
 
 ### What is Operating System?
 -----------------------------
@@ -86,16 +86,16 @@ AND
 </p>
 
 # CHAPTER-2 PROCESS MANAGEMENT 
-| Sno. | TOPICS                        |
-| ---- | ----------------------------- |
-| 0.   | [Process Management Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/2-PROCESS%20MANAGEMENT.pdf)  |
-| 1.   | [What Is Process?         ](https://github.com/hacker-404-error/Operating_System#what-is-process) |
-| 2.   | [Representation Of Process](https://github.com/hacker-404-error/Operating_System#representation-of-process) |
-| 3.   | [Operation On Process     ](https://github.com/hacker-404-error/Operating_System#operation-on-process) |
-| 4.   | [Attribute Of a Process   ](https://github.com/hacker-404-error/Operating_System#attribute-of-process) |
-| 5.   | [Process Control Block    ](https://github.com/hacker-404-error/Operating_System#process-control-block) |
-| 6.   | [Process State            ](https://github.com/hacker-404-error/Operating_System#process-state) |
-| 7.   | [Process Scheduling       ](https://github.com/hacker-404-error/Operating_System#process-scheduling) |
+| Sno. | TOPICS                                                                                                                      |
+| ---- | --------------------------------------------------------------------------------------------------------------------------- |
+| 0.   | [Process Management Notes](https://github.com/hacker-404-error/Operating_System/blob/main/Notes/2-PROCESS%20MANAGEMENT.pdf) |
+| 1.   | [What Is Process?         ](https://github.com/hacker-404-error/Operating_System#what-is-process)                           |
+| 2.   | [Representation Of Process](https://github.com/hacker-404-error/Operating_System#representation-of-process)                 |
+| 3.   | [Operation On Process     ](https://github.com/hacker-404-error/Operating_System#operation-on-process)                      |
+| 4.   | [Attribute Of a Process   ](https://github.com/hacker-404-error/Operating_System#attribute-of-process)                      |
+| 5.   | [Process Control Block    ](https://github.com/hacker-404-error/Operating_System#process-control-block)                     |
+| 6.   | [Process State            ](https://github.com/hacker-404-error/Operating_System#process-state)                             |
+| 7.   | [Process Scheduling       ](https://github.com/hacker-404-error/Operating_System#process-scheduling)                        |
 
 
 ### What is Process?
